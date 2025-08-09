@@ -1,5 +1,10 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10&color=96F7A3&width=435&lines=Hi!;I'm+Andreamp0!)](https://git.io/typing-svg)
 
+---
+
+I'm a Linux and Python enthusiast
+
+My main programming language is **Python** <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="icon" style="height: 1em; vertical-align: middle;">
 <!--
 **Andreamp0/Andreamp0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

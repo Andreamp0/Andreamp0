@@ -21,7 +21,7 @@
 
 ---
 
-[Recursion](https://github.com/Andreamp0/
+[Recursion](https://github.com/Andreamp0/)
 
 <!--
 **Andreamp0/Andreamp0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
